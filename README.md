@@ -2,9 +2,9 @@ I'll start with the defaults here,
 
 - 👋 Hi, I’m Abraham Ezequiel Chalave.
 - 👀 I’m interested in highly performant code, FOSS and open hardware.
-- 🌱 I’m currently learning the C family (C, C++ and C#), I did a lot of scripting before.
-- 💞️ I’m looking to collaborate on open source projects, mostly as a hobby, or anything new and disrupting (e.g.: DOTS/ECS).
-- 📫 How to reach me: abraham.chalave@gmail.com, abraham.chalave@outlook.com
+- 🌱 I’m currently learning the C family (C, C++ ~~and C#~~), I did a lot of scripting before.
+- 💞️ Hardboiled PC/GNU/Linux user.
+- 📫 How to reach me out: abraham.chalave@gmail.com, abraham.chalave@outlook.com
 
 In case you haven't checked for my other [repos](https://github.com/wooobotch?tab=repositories), [blogs](https://wooobotch.github.io/) or this is your first time reading about me:
 
