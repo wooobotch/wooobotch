@@ -17,5 +17,5 @@ In case you haven't checked for my other [repos](https://github.com/wooobotch?ta
 - Many more things![^2]
 
 
-[^1]: I'm working on a collection of notes and other writen resources, so far it's just a [website](https://wooobotch.gitlab.io/biblia).
+[^1]: I'm working on a collection of scripts, notes and other writen resources, so far it's just a small set of files to be uploaded as another repo..
 [^2]: This file is and will always be a work in progress. Feel free to ask for anything via email or lets set up a date for jitsi!
